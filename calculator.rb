@@ -1,3 +1,4 @@
+puts "this is a basic four function calculator!".upcase
 puts "what is your x?"
 x=gets.chomp.to_i
 puts "what kind of calculation do you want?"
